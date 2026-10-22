@@ -15,17 +15,17 @@ whether a "free" tool is really free, and validating and pricing an offer. Each 
 Clone the repo and copy the skill folders you want into your Claude skills directory:
 
 ```bash
-git clone https://github.com/OWNER/mindlyft-gtm-skills.git
+git clone https://github.com/hrshitkunwar-tech/mindlyft-gtm-skills.git
 cp -r mindlyft-gtm-skills/skills/cold-email-that-books "$HOME/.claude/skills/"
 ```
 
 Or install a single skill with the `skills` CLI:
 
 ```bash
-npx skills add OWNER/mindlyft-gtm-skills/cold-email-that-books
+npx skills add hrshitkunwar-tech/mindlyft-gtm-skills/cold-email-that-books
 ```
 
-Replace `OWNER` with the GitHub account that hosts this repo. The `free-claim-audit` script needs
+The `free-claim-audit` script needs
 `bash`, `curl` and `python3`; set `GITHUB_TOKEN` to raise GitHub API rate limits.
 
 ## License
