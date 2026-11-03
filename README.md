@@ -34,4 +34,10 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Built by Mindlyft (https://mindlyft.io). Free GTM review: https://mindlyft.io/start. More skill packs: https://mindlyft.shop
+### Production Deployment & Engineering Resources
+- **Commercial Engine:** [Mindlyft Service-as-a-Software](https://mindlyft.io)
+- **Live GTM Execution Engine:** [mindlyft.io/systems](https://mindlyft.io/systems)
+- **Interactive GTM Cost Calculator:** [mindlyft.io/tools/gtm-cost-calculator](https://mindlyft.io/tools/gtm-cost-calculator)
+- **Post-Call CRM Automation Blueprint:** [mindlyft.io/post-call-crm-automation](https://mindlyft.io/post-call-crm-automation)
+- **Stack Comparisons (Clay vs Instantly, Fireflies, Fathom):** [mindlyft.io/compare](https://mindlyft.io/compare)
+- **Skill Packs:** [mindlyft.shop](https://mindlyft.shop)
