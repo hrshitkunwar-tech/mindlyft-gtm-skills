@@ -39,5 +39,5 @@ MIT. See [LICENSE](LICENSE).
 - **Live GTM Execution Engine:** [mindlyft.io/systems](https://mindlyft.io/systems)
 - **Interactive GTM Cost Calculator:** [mindlyft.io/tools/gtm-cost-calculator](https://mindlyft.io/tools/gtm-cost-calculator)
 - **Post-Call CRM Automation Blueprint:** [mindlyft.io/post-call-crm-automation](https://mindlyft.io/post-call-crm-automation)
-- **Stack Comparisons (Clay vs Instantly, Fireflies, Fathom):** [mindlyft.io/compare](https://mindlyft.io/compare)
+- **Stack Comparisons (Chorus vs Gong, Clay vs Instantly, Fireflies, Fathom):** [mindlyft.io/compare](https://mindlyft.io/compare)
 - **Skill Packs:** [mindlyft.shop](https://mindlyft.shop)
