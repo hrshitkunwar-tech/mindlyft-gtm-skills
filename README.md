@@ -41,3 +41,8 @@ MIT. See [LICENSE](LICENSE).
 - **Post-Call CRM Automation Blueprint:** [mindlyft.io/post-call-crm-automation](https://mindlyft.io/post-call-crm-automation)
 - **Stack Comparisons (Chorus vs Gong, Clay vs Instantly, Fireflies, Fathom):** [mindlyft.io/compare](https://mindlyft.io/compare)
 - **Skill Packs:** [mindlyft.shop](https://mindlyft.shop)
+
+- **5-Day Post-Call & CRM Sync Build ($500 flat, Contra Escrow):** [Book Sprint on Contra](https://contra.com/s/RmWZoMo3-end-to-end-post-call-automation-and-crm-sync-engine?r=harshit_kunwar_m0yu7crm)
+- **30-Min Pipeline Teardown (₹1,999, Topmate):** [Book Live Session](https://topmate.io/harshit_kunwar/2370556)
+- **Full GTM Operator Skills Pack & Vault ($29–$59):** [Whop Storefront](https://whop.com/mindlyft-io/products/)
+- **GTM Engineering Services & Pricing:** [mindlyft.io/services](https://mindlyft.io/services) · [mindlyft.io/pricing](https://mindlyft.io/pricing)
