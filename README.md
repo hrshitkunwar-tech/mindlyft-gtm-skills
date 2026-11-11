@@ -40,6 +40,9 @@ MIT. See [LICENSE](LICENSE).
 - **Interactive GTM Cost Calculator:** [mindlyft.io/tools/gtm-cost-calculator](https://mindlyft.io/tools/gtm-cost-calculator)
 - **Post-Call CRM Automation Blueprint:** [mindlyft.io/post-call-crm-automation](https://mindlyft.io/post-call-crm-automation)
 - **Stack Comparisons (Chorus vs Gong, Clay vs Instantly, Fireflies, Fathom):** [mindlyft.io/compare](https://mindlyft.io/compare)
+- **Shipped Customer Results:** [mindlyft.io/docs/customer-results](https://mindlyft.io/docs/customer-results)
+- **AI Agent Observability for GTM:** [mindlyft.io/blog/ai-agent-observability](https://mindlyft.io/blog/ai-agent-observability)
+- **HubSpot + Zendesk Integration Guide:** [mindlyft.io/blog/hubspot-zendesk-integration](https://mindlyft.io/blog/hubspot-zendesk-integration)
 - **Skill Packs:** [mindlyft.shop](https://mindlyft.shop)
 
 - **5-Day Post-Call & CRM Sync Build ($500 flat, Contra Escrow):** [Book Sprint on Contra](https://contra.com/s/RmWZoMo3-end-to-end-post-call-automation-and-crm-sync-engine?r=harshit_kunwar_m0yu7crm)
